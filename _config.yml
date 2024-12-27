@@ -1,0 +1,11 @@
+title: Shailja
+url: "https://shailjasah.github.io"
+baseurl: ""
+
+markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
