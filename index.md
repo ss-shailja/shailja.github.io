@@ -10,5 +10,4 @@ I am a Postdoctoral researcher in the Radiological Science Laboratory at Stanfor
 
 I will be presenting my research on "Can tractography predict electrophysiological connectivity?" at the ISMRM Workshop on 40 Years of Diffusion: Past, Present & Future Perspectives.
 
----
 <hr>
