@@ -28,7 +28,7 @@
 
 * B. Zhang, S. Shailja (equal contributors), *et al.*  
   “ReeSPOT: Reeb Graph Models Semantic Patterns of Normalcy in Human Trajectories.”  
-  *27th International Conference on Pattern Recognition (ICPR)*, 2024. [Link](https://doi.org/10.48550/arXiv.2405.00808)
+  *27th International Conference on Pattern Recognition (ICPR)*, 2024. [Link](https://doi.org/10.1007/978-3-031-78183-4_16)
   
 * S. Shailja, *et al.*  
   “Scaffolding AI research projects lowers the mathematical difficulty in teaching AI to high school students.”  
@@ -36,7 +36,7 @@
 
 * S. Shailja, *et al.*  
   “ReTrace: Topological insight to evaluation of white matter tractography using Reeb graphs.”  
-  **Highest ranked paper** in [CDMRI Workshop at the International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023.](https://www.biorxiv.org/content/10.1101/2023.07.03.547451v1)
+  *CDMRI Workshop at the International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2023.[Link](https://link.springer.com/chapter/10.1007/978-3-031-47292-3_16)
   
 * S. Shailja, *et al.*  
   “A computational geometry approach for modeling neuronal fiber pathways.”  
